@@ -1,1 +1,2 @@
 # deploy-practice
+testing ruleset
